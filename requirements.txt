@@ -4,4 +4,7 @@ seaborn
 pandas
 scikit-learn
 dill
+catboost
+xgboost
+pickle
 # -e .   
